@@ -192,7 +192,7 @@ footer {
     }
     body {
         align-items: stretch;
-        min-width: 100vw;
+        
     }
     .desktop-container {
         display: grid;
